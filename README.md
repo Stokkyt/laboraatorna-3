@@ -72,11 +72,11 @@ def test_subtract():
 2. **Складності**: Проблеми з віртуальним оточенням Ubuntu
 3. **Перспективи**: Додати артефакти та релізи
 4. **Оцінка**: 9/10 - потрібно більше прикладів з advanced features
-![Загальний вигляд](photos/Screenshot_1 (1).png)
-![Загальний вигляд](photos/Screenshot_2 (1).png)
-![Загальний вигляд](photos/Screenshot_3 (1).png)
-![Загальний вигляд](photos/Screenshot_4 (1).png)
-![Загальний вигляд](photos/Screenshot_5 (1).png)
-![Загальний вигляд](photos/Screenshot_7 (1).png)
-![Загальний вигляд](photos/Screenshot_6(1).png)
+![](photos/Screenshot_1 (1).png)
+![](photos/Screenshot_2 (1).png)
+![](photos/Screenshot_3 (1).png)
+![](photos/Screenshot_4 (1).png)
+![](photos/Screenshot_5 (1).png)
+![](photos/Screenshot_7 (1).png)
+![](photos/Screenshot_6(1).png)
 
