@@ -77,6 +77,6 @@ def test_subtract():
 ![](photos/Screenshot_3 (1).png)
 ![](photos/Screenshot_4 (1).png)
 ![](photos/Screenshot_5 (1).png)
-![](photos/Screenshot_7 (1).png)
+![](photos/Screenshot_7(1).png)
 ![](photos/Screenshot_6(1).png)
 
